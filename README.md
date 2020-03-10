@@ -4,7 +4,7 @@
 <tbody>
 <tr>
     <td>20</td>
-    <td>17</td>
+    <td>(17)</td>
     <td>10</td>
     <td>4</td>
     <td>3</td>
